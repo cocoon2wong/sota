@@ -181,7 +181,7 @@ Zhang, Pu, Wanli Ouyang, Pengfei Zhang, Jianru Xue, and Nanning Zheng. 2019. <sp
 <section class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>The authors are with Huazhong University of Science and Technology, China (Email: conghaowong@icloud.com, ziqianzoulive@icloud.com).<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1" role="doc-endnote"><p>The authors are with Huazhong University of Science and Technology, China.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2" role="doc-endnote"><p>See <a href="https://cocoon2wong.github.io/posts/2026-10-08-rev">https://cocoon2wong.github.io/posts/2026-10-08-rev</a> (accessed 2026).<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn3" role="doc-endnote"><p>Game artificial intelligence is also known as game AI. However, the term “AI” here is not the same as the term AI that is currently widely used to refer to machine learning or other computer technologies or algorithms.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn4" role="doc-endnote"><p>The GitHub Arctic Code Vault program (2020) aims at saving all human code for at least thousands of years under the Arctic to prevent any climate change or natural disasters, saving open source code as cultural heritages of software, algorithms, and even further digital artworks.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
