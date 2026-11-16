@@ -1,0 +1,53 @@
+---
+layout: "@/layouts/BaseLayout.astro"
+title: "From State of THE ART to Human Prediction Algorithms"
+showBreadcrumbs: false
+showTableOfContents: false
+---
+
+import { withBase } from "@/utils/url";
+import Pill from "@/components/Pill.astro";
+
+## Information
+
+This is the homepage of our paper "From State of THE ART to Human Prediction Algorithms".
+Please note that this is not an algorithms paper on computer vision, but rather a discussion of human intuition and ideas in current prediction algorithms, from the perspective of the interactive art that is isomorphic to them.
+The full paper is now available on both this site and arXiv.
+Click the buttons below for more information.
+
+<Pill
+  hoverable
+  items={[
+    {label: "📖 Paper (html)", href: withBase("/paper")},
+    {label: "📖 Paper (arXig.org)", href: "https://arxiv.org/abs/2611.16464"}
+  ]}
+/>
+
+## Abstract
+
+Human curiosity and longing for the future have driven human progress from ancient times to the present.
+With the advancement of AI technology, human prediction algorithms have also drawn increasing attention from researchers.
+However, as AI technology continues to advance, we observe a counterintuitive phenomenon.
+Take human trajectory prediction algorithms as an example.
+Although models' quantitative prediction performance has improved, yielding one state-of-the-art model after another, the consideration of human behaviors, future thoughts, and social interactions themselves exhibits a diminishing trend in the construction of these prediction algorithms, buried beneath numbers and metrics.
+In this manuscript, taking interactive art and human trajectory prediction algorithms as examples, we attempt to adopt a different analytical perspective to analyze the structural and developmental commonalities between these two fields.
+By examining specific interactive artworks and prediction algorithms, we aim to explore how human intuitions and art are associated with AI algorithms through three aspects, including perception, interaction, and timing, thereby providing new insights for understanding and further researching this domain.
+We also observe an interesting phenomenon that certain art-inspired prediction algorithms can actually deduce intriguing patterns of human behaviors from the data, offering new potential avenues for understanding the relationship between human activities, state of *The Art*, and AI algorithms.
+
+## Citation
+
+If you find this work useful, it would be grateful to cite our paper!
+
+```bib
+@article{wong2026from,
+  title={From State of THE ART to Human Prediction Algorithms},
+  author={Wong, Conghao and Zou, Ziqian},
+  journal={arXiv preprint arXiv:2611.16464},
+  year={2026}
+}
+```
+
+## Contact us
+
+Conghao Wong ([@cocoon2wong](https://github.com/cocoon2wong))  
+Ziqian Zou ([@LivepoolQ](https://github.com/LivepoolQ))
